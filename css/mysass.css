@@ -54,7 +54,7 @@
   color: #f0ae4f !important;
 }
 
-@media screen and (min-width: 400px) and (max-width: 768px) {
+@media screen and (min-width: 300px) and (max-width: 768px) {
   .footer-email {
     font-size: 20px !important;
   }
