@@ -1,0 +1,155 @@
+.linkedin {
+  font-size: 1.5rem;
+  color: #c0c0d0;
+}
+
+.git {
+  font-size: 1.5rem;
+  color: #c0c0d0;
+}
+
+.navbar {
+  border-bottom: 1px solid grey;
+}
+
+.nav-link {
+  font-family: "DM Serif Display";
+  font-size: 29px;
+}
+
+.links {
+  font-family: "DM Sans", sans-serif;
+  color: beige;
+  font-size: 20px;
+}
+
+.links:visited {
+  color: beige;
+}
+
+.links:hover {
+  color: blue;
+}
+
+.navbar-toggler-icon {
+  background-image: url(../images/download.svg) !important;
+  font-size: 2rem;
+  border: none;
+}
+
+.footer-h6 {
+  font-family: "DM Serif Display";
+  font-size: 72px;
+}
+
+.footer-p {
+  font-family: "DM Sans", sans-serif;
+  font-size: 23px;
+  color: grey;
+}
+
+.footer-email {
+  font-family: "DM Serif Display";
+  font-size: 40px;
+  color: #f0ae4f !important;
+}
+
+@media screen and (min-width: 300px) and (max-width: 768px) {
+  .footer-email {
+    font-size: 20px !important;
+  }
+  .footer-h6 {
+    font-family: "DM Serif Display";
+    font-size: 50px;
+  }
+  .links-LG {
+    visibility: hidden;
+    clear: both;
+    display: none;
+  }
+}
+
+.rotated {
+  -webkit-transform: translateY(20px) rotate(-3deg);
+          transform: translateY(20px) rotate(-3deg);
+}
+
+.footer-links {
+  font-family: "DM Sans", sans-serif;
+  font-size: 18px;
+}
+
+.footer-copyrights {
+  font-family: "DM Sans", sans-serif;
+  font-size: 19px;
+  color: #9ca3af;
+}
+
+.footer-links:hover {
+  color: beige;
+  cursor: pointer;
+}
+
+.lighting {
+  color: beige !important;
+}
+
+.name-font {
+  font-family: "DM Serif Display";
+  font-size: 70px;
+}
+
+.hello-font {
+  font-family: "DM Sans", sans-serif;
+  font-size: 23px;
+}
+
+.frontend-font {
+  font-family: "DM Sans", sans-serif;
+  font-size: 23px;
+  color: #9ca3af !important;
+}
+
+.btn-font {
+  font-family: "DM Sans", sans-serif;
+  font-size: 18px;
+}
+
+.porto-font {
+  font-family: "DM Serif Display";
+  font-size: 64px;
+}
+
+.all-my {
+  font-family: 'Homemade Apple', cursive;
+  font-size: 40px;
+}
+
+.skills-words-all {
+  font-family: "DM Sans", sans-serif;
+  font-size: 19px;
+}
+
+.progress {
+  height: 0.25rem;
+}
+
+.about-font-1 {
+  font-family: "DM Serif Display";
+  font-size: 48px;
+}
+
+.about-font-2 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 19px;
+}
+
+.jobs {
+  font-family: "DM Serif Display";
+  font-size: 28px;
+}
+
+.negavtive {
+  margin-top: -100px;
+}
+/*# sourceMappingURL=mysass.css.map */
